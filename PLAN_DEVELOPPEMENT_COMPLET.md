@@ -1115,7 +1115,7 @@
 **Validation :** Après chaque fichier, validation par l'auteur avant de continuer.
 
 ---
-
+-----------------------------------------------------------------------------------------------------------------------------
 ### **PHASE 3 : Rédaction Partie I (Semaines 3-4)**
 
 **Ordre de rédaction :**
@@ -1127,7 +1127,7 @@
 **Validation :** Après chaque chapitre, validation avant de continuer.
 
 ---
-
+---------------------------------------------------------------------------------------------------------------
 ### **PHASE 4 : Rédaction Partie II (Semaines 5-6)**
 
 **Ordre de rédaction :**
