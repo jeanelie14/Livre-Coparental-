@@ -1,16 +1,14 @@
-# [TITRE PRINCIPAL À DÉFINIR]
+# Après la séparation : protéger son enfant et retrouver sa paix
 
-## [Sous-titre à définir]
-
----
-
-**Auteur :** [JEan ELie Jeune]
-
-**Éditeur :** [Si applicable]
-
-**Année :** [Décembre 2025]
+## Guide pratique, légal et psychologique au Québec
 
 ---
 
-*Page de titre - À compléter*
+**Auteur :** Jean Élie Jeune
+
+**Année :** Décembre 2025
+
+---
+
+*Guide complet pour naviguer la co-parentalité après la séparation*
 
