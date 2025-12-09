@@ -1166,7 +1166,7 @@
 
 **Validation :** Validation rigoureuse, particulièrement pour les aspects juridiques et financiers. Consultation d'un avocat recommandée pour les chapitres 10-12.
 
----
+---------------------------------------------------------------------------------------------------------------------------------------------
 
 ### **PHASE 7 : Rédaction Partie V (Semaines 13-16)**
 
