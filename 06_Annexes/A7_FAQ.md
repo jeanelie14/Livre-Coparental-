@@ -63,7 +63,7 @@ Cette FAQ répond aux questions les plus fréquentes sur la séparation et la co
 
 **Si l'enfant est en danger :**
 - Agissez immédiatement pour protéger l'enfant
-- Contactez la DPJ (1-800-567-8527) si nécessaire
+- Contactez la DPJ (1-800-461-9331, gratuit et confidentiel, 24/7) si nécessaire
 - Consultez un avocat pour obtenir des mesures de protection
 
 **Si l'enfant refuse sans raison valable :**
@@ -353,7 +353,7 @@ Cette FAQ répond aux questions les plus fréquentes sur la séparation et la co
 **Ressources :**
 - 9-1-1 : Urgence
 - Ligne d'écoute violence conjugale : 1-800-363-9010
-- DPJ : 1-800-567-8527 (si l'enfant est en danger)
+- DPJ : 1-800-461-9331 (pour faire un signalement, gratuit et confidentiel, 24/7)
 - Refuges pour femmes : Recherchez dans votre région
 
 **Voir Chapitres 4 et 5 pour plus de détails.**

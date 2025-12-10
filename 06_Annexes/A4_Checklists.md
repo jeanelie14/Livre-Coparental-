@@ -208,7 +208,7 @@ Utilisez cette checklist pour identifier les signes que votre enfant pourrait av
 - Psychologue pour enfants
 - Travailleur social
 - CLSC (composez le 811)
-- DPJ (si danger : 1-800-567-8527)
+- DPJ (si danger : 1-800-461-9331, gratuit et confidentiel, 24/7)
 
 ---
 

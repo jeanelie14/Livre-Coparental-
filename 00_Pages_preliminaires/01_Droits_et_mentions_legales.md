@@ -32,7 +32,7 @@ Ce livre est fourni à titre informatif uniquement. Les informations contenues d
 
 **Si vous êtes en danger immédiat :**
 - Appelez le 9-1-1 immédiatement
-- Contactez la DPJ au 1-800-567-8527 si un enfant est en danger
+- Contactez la DPJ au 1-800-461-9331 (gratuit et confidentiel, 24/7) si un enfant est en danger
 - Quittez la situation dangereuse si possible
 - Contactez un refuge ou un service d'aide aux victimes
 

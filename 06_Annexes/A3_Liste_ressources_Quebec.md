@@ -22,7 +22,7 @@ Cette liste de ressources doit être mise à jour régulièrement. **⚠️ Impo
 
 ### Numéro d'urgence
 
-📞 **Ligne d'urgence DPJ : 1-800-567-8527**
+📞 **Pour faire un signalement à la DPJ : 1-800-461-9331** (24/7, gratuit et confidentiel)
 - Disponible 24 heures sur 24, 7 jours sur 7
 - Pour signaler une situation de danger pour un enfant
 
@@ -143,7 +143,7 @@ Cette liste de ressources doit être mise à jour régulièrement. **⚠️ Impo
 
 ### Information générale
 
-📞 **CAVAC (Centres d'aide aux victimes d'actes criminels) : 1-866-532-2822**
+📞 **CAVAC (Centres d'aide aux victimes d'actes criminels) : 1-866-532-2822** (1-866 LE CAVAC)
 - Site web : [cavac.qc.ca](https://www.cavac.qc.ca)
 
 **Pour trouver un CAVAC :**
@@ -268,7 +268,7 @@ Cette liste de ressources doit être mise à jour régulièrement. **⚠️ Impo
 ### Besoin d'aide immédiate (urgence)
 
 📞 **9-1-1** — Urgence
-📞 **1-800-567-8527** — DPJ (urgence)
+📞 **1-800-461-9331** — DPJ (signalement, gratuit et confidentiel, 24/7)
 📞 **1-866-277-3553** — Ligne d'écoute suicide
 
 ### Besoin d'information juridique

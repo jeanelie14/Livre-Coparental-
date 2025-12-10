@@ -4,76 +4,31 @@
 
 ## Description optimisée pour Amazon/KDP
 
-### Version complète (400-500 mots)
+### Version complète (200-300 mots — optimisée pour Amazon)
 
-**Vous co-parentez avec un parent difficile et vous vous sentez dépassé(e), isolé(e), et inquiet(e) pour votre enfant ?**
+**Vous co-parentez avec un parent difficile au Québec ?**
 
-Vous n'êtes pas seul(e). Des milliers de parents au Québec font face chaque jour aux défis de la co-parentalité avec un parent manipulateur, agressif, absent, ou qui refuse de coopérer. Vous vous demandez peut-être : *Comment protéger mon enfant ? Comment gérer la communication ? Quels sont mes droits légaux ? Où trouver de l'aide ?*
+Ce guide complet vous donne les outils pour protéger votre enfant et naviguer la co-parentalité difficile. Écrit par un parent qui a vécu cette situation, ce livre combine l'expérience personnelle, la recherche approfondie, et la consultation avec des professionnels.
 
-**Ce guide complet vous donne les réponses et les outils dont vous avez besoin.**
+**Ce que vous trouverez :**
 
-**Après la séparation : protéger son enfant et retrouver sa paix** est le guide le plus complet disponible au Québec pour naviguer la co-parentalité avec un parent difficile. Écrit par un parent qui a vécu cette situation, ce livre combine l'expérience personnelle, la recherche approfondie, et la consultation avec des professionnels pour vous fournir un guide pratique, légal et psychologique.
+✅ **Comprendre la situation** : Identifiez les profils de parents difficiles et l'impact sur votre enfant
 
-**Ce que vous trouverez dans ce livre :**
+✅ **Protéger votre enfant** : Documentez les incidents, signalez à la DPJ, créez un plan de sécurité
 
-✅ **Comprendre la situation** : Identifiez les profils de parents difficiles, comprenez l'impact sur votre enfant, et évaluez votre situation
+✅ **Communiquer stratégiquement** : Techniques de communication qui réduisent les conflits
 
-✅ **Protéger votre enfant** : Apprenez à documenter les incidents, à signaler à la DPJ, à créer un plan de sécurité, et à obtenir des mesures de protection
+✅ **Naviguer le système québécois** : Divorce, mesures judiciaires, aide juridique, médiation, pension alimentaire
 
-✅ **Communiquer stratégiquement** : Maîtrisez les techniques de communication qui réduisent les conflits, protègent votre enfant, et préservent votre santé mentale
+✅ **Construire l'avenir** : Co-parentalité fonctionnelle, stabilité, réparation des relations
 
-✅ **Naviguer le système québécois** : Comprenez le divorce à l'amiable, les mesures judiciaires, l'aide juridique, la médiation, et le calcul de la pension alimentaire
+**Spécificité québécoise :** Ressources vérifiées (DPJ, CLSC, aide juridique), lois et procédures québécoises, numéros à jour, exemples adaptés au Québec.
 
-✅ **Construire l'avenir** : Établissez une co-parentalité fonctionnelle, réparez les relations endommagées, maintenez la stabilité, et créez un environnement positif pour votre enfant
+**Ressources incluses :** Modèles d'accord parental, calendrier, journal d'incidents, plan de sécurité, checklists, modèles de messages, liste complète des ressources québécoises, FAQ, glossaire.
 
-**Spécificité québécoise :**
+**Résultats :** Vous saurez protéger votre enfant, documenter les incidents, communiquer stratégiquement, naviguer le système juridique québécois, accéder aux ressources, et créer de la stabilité.
 
-Ce livre est spécialement conçu pour le contexte québécois :
-- Ressources québécoises vérifiées (DPJ, CLSC, aide juridique, etc.)
-- Lois et procédures québécoises expliquées simplement
-- Numéros de téléphone et sites web à jour
-- Exemples et scénarios adaptés au Québec
-
-**Ressources pratiques incluses :**
-
-- Modèles d'accord parental (simplifié et détaillé)
-- Calendrier parental personnalisable
-- Journal d'incidents à remplir
-- Plan de sécurité à compléter
-- Checklists pour différentes situations
-- Modèles de messages neutres
-- Liste complète des ressources québécoises
-- FAQ avec 20+ questions fréquentes
-- Glossaire juridique simplifié
-
-**Résultats que vous obtiendrez :**
-
-Après avoir lu ce guide, vous saurez :
-- Comment protéger efficacement votre enfant
-- Comment documenter les incidents pour protéger vos droits
-- Comment communiquer de façon stratégique et réduire les conflits
-- Comment naviguer le système juridique québécois
-- Comment accéder aux ressources d'aide disponibles
-- Comment créer de la stabilité pour votre enfant
-- Comment prendre soin de vous tout en protégeant votre enfant
-
-**Témoignages :**
-
-*"Ce livre m'a donné les outils dont j'avais besoin pour protéger mon enfant. La documentation m'a sauvé, moi et mon enfant."* — Parent anonyme
-
-*"Enfin un guide complet adapté au Québec. Les ressources et les numéros de téléphone sont exacts et à jour."* — Parent anonyme
-
-**Bonus téléchargeable inclus :**
-
-Calendrier parental annuel, modèles de documents imprimables, checklist complète, et guide rapide d'urgence.
-
-**Pour qui ce livre est fait :**
-
-- Parents en séparation ou divorce au Québec
-- Parents qui co-parentent avec un parent difficile
-- Parents qui cherchent à protéger leur enfant
-- Parents qui ont besoin d'informations légales et pratiques
-- Professionnels qui accompagnent les familles en séparation
+**Pour qui :** Parents en séparation au Québec, parents qui co-parentent avec un parent difficile, parents qui cherchent à protéger leur enfant, professionnels qui accompagnent les familles.
 
 **Commencez votre parcours vers la protection et la paix dès aujourd'hui.**
 

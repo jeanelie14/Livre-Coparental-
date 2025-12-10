@@ -99,7 +99,7 @@ Ce glossaire explique les termes juridiques et la terminologie utilisés dans ce
 
 **Quand contacter :** Si vous croyez qu'un enfant est en danger (violence, négligence, abus, etc.).
 
-**Numéro d'urgence :** 1-800-567-8527 (24/7)
+**Pour faire un signalement :** 1-800-461-9331 (24/7, gratuit et confidentiel)
 
 ### CLSC — Centre local de services communautaires
 

@@ -20,7 +20,7 @@
 - **Info-Santé** : **811** — Service d'information 24/7
 
 **Protection de la jeunesse :**
-- **DPJ** : **1-800-567-8527** — Ligne d'urgence 24/7
+- **DPJ** : **1-800-461-9331** — Pour faire un signalement (gratuit et confidentiel, 24/7)
 
 **Finances :**
 - **Revenu Québec** : [revenuquebec.ca](https://www.revenuquebec.ca) — Allocations familiales, pension alimentaire

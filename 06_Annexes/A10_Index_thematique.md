@@ -53,7 +53,7 @@ Cet index thématique vous aide à trouver rapidement les informations dont vous
 **Ressources :**
 - Chapitre 6 : DPJ guide (ressources, contacts) — **Pages ~161-220**
 - Annexe A3 : Liste des ressources (DPJ par région) — **Pages ~520-540**
-- Numéro d'urgence : 1-800-567-8527
+- Pour faire un signalement : 1-800-461-9331 (gratuit et confidentiel, 24/7)
 
 ---
 

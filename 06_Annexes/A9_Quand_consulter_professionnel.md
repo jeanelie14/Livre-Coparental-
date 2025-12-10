@@ -6,7 +6,7 @@
 
 Cette annexe vous aide à déterminer quand consulter différents types de professionnels. Utilisez ces checklists pour évaluer votre situation et savoir quand chercher de l'aide professionnelle.
 
-**⚠️ Important :** Si vous ou votre enfant êtes en danger immédiat, appelez le **9-1-1** ou contactez la DPJ au **1-800-567-8527**.
+**⚠️ Important :** Si vous ou votre enfant êtes en danger immédiat, appelez le **9-1-1** ou contactez la DPJ au **1-800-461-9331** (gratuit et confidentiel, 24/7).
 
 ---
 
@@ -140,7 +140,7 @@ Consultez un travailleur social si l'une de ces situations s'applique :
 **Ressources :**
 - Ordre des travailleurs sociaux et des thérapeutes conjugaux et familiaux du Québec : [otstcfq.org](https://www.otstcfq.org)
 - CLSC : Composez le 811 pour Info-Santé
-- DPJ : 1-800-567-8527 (si l'enfant est en danger)
+- DPJ : 1-800-461-9331 (pour faire un signalement, gratuit et confidentiel, 24/7)
 
 ---
 
@@ -157,7 +157,7 @@ Consultez un travailleur social si l'une de ces situations s'applique :
 
 **Action immédiate :**
 - Appelez le **9-1-1** si vous êtes en danger immédiat
-- Contactez la **DPJ** au **1-800-567-8527** si l'enfant est en danger
+- Contactez la **DPJ** au **1-800-461-9331** (gratuit et confidentiel, 24/7) si l'enfant est en danger
 - Quittez la situation dangereuse si possible
 - Contactez un refuge ou un service d'aide aux victimes
 
@@ -183,7 +183,7 @@ Consultez un travailleur social si l'une de ces situations s'applique :
 
 **Action immédiate :**
 - Appelez le **9-1-1** si vous êtes en danger immédiat
-- Contactez la **DPJ** au **1-800-567-8527** si l'enfant est en danger
+- Contactez la **DPJ** au **1-800-461-9331** (gratuit et confidentiel, 24/7) si l'enfant est en danger
 - Contactez un refuge ou un service d'aide aux victimes
 - Documentez les incidents
 
@@ -195,7 +195,7 @@ Consultez un travailleur social si l'une de ces situations s'applique :
 - [ ] L'enfant est exposé à des situations dangereuses
 
 **Action immédiate :**
-- Contactez la **DPJ** au **1-800-567-8527**
+- Contactez la **DPJ** au **1-800-461-9331** (gratuit et confidentiel, 24/7)
 - Documentez les incidents
 - Consultez un avocat si nécessaire
 
