@@ -165,3 +165,4 @@ CHAPITRE 8 — COMMUNICATION STRATÉGIQUE (Titre 1, 18-20 pts, gras)
 
 *Analyse du formatage — Chapitre 3.2 — Décembre 2024*
 
+

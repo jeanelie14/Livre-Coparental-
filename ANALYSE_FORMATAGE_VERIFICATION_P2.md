@@ -161,3 +161,4 @@ RAPPORT DE VÉRIFICATION — PARTIE II (Titre 1, 18-20 pts, gras)
 
 *Analyse du formatage — Vérification Partie II — Décembre 2024*
 
+

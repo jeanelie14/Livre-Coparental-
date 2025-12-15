@@ -198,3 +198,4 @@ CHAPITRE 7 — ÉTAT D'ESPRIT & LIMITES (Titre 1, 18-20 pts, gras)
 
 *Analyse du formatage — Chapitre 3.1 — Décembre 2024*
 
+

@@ -188,3 +188,4 @@ ANNEXE 2.B — MODÈLE DE JOURNAL D'INCIDENTS (Titre 1, 18-20 pts, gras)
 
 *Analyse du formatage — Annexe 2.B — Décembre 2024*
 
+

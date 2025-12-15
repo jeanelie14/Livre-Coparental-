@@ -129,3 +129,4 @@ TRANSITION — DE LA PARTIE III À LA PARTIE IV (Titre 1, 18-20 pts, gras)
 
 *Analyse du formatage — Transition P3-P4 — Décembre 2024*
 
+

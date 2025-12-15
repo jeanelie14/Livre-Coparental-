@@ -199,3 +199,4 @@ CHAPITRE 10 — LE DIVORCE À L'AMIABLE AU QUÉBEC (Titre 1, 18-20 pts, gras)
 
 *Analyse du formatage — Chapitre 10 — Décembre 2024*
 
+

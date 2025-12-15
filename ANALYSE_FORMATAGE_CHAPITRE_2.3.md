@@ -209,3 +209,4 @@ CHAPITRE 6 — LA DPJ : GUIDE PRATIQUE (Titre 1, 18-20 pts, gras)
 
 *Analyse du formatage — Chapitre 2.3 — Décembre 2024*
 
+
