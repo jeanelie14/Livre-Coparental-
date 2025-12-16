@@ -4,7 +4,7 @@ TRANSITION — DE LA PARTIE I À LA PARTIE II
 
 SYNTHÈSE DE LA PARTIE I : COMPRENDRE LES MÉCANISMES
 
-Dans la Partie I, nous avons exploré les fondements de la co-parentalité difficile. Vous avez maintenant une compréhension claire de :
+Dans la Partie I, nous avons exploré les fondements de la coparentalité difficile. Vous avez maintenant une compréhension claire de :
 
 Ce qu'est un parent difficile : Un parent qui adopte des comportements nuisant au bien-être de l'enfant ou à votre capacité à exercer votre rôle parental de façon sécuritaire. Nous avons vu qu'il existe différents niveaux de difficulté, de l'inconfort gérable au danger immédiat.
 
@@ -18,7 +18,7 @@ Cette compréhension est essentielle, mais elle n'est qu'un premier pas. Mainten
 
 INTRODUCTION À LA PARTIE II : PROTECTION IMMÉDIATE ET SÉCURITÉ
 
-Maintenant que vous comprenez les mécanismes de la co-parentalité difficile et l'impact sur votre enfant, nous allons nous concentrer sur la protection immédiate. La Partie II est la section la plus importante de ce livre : elle vous donne les outils concrets pour agir quand votre enfant ou vous-même êtes en danger.
+Maintenant que vous comprenez les mécanismes de la coparentalité difficile et l'impact sur votre enfant, nous allons nous concentrer sur la protection immédiate. La Partie II est la section la plus importante de ce livre : elle vous donne les outils concrets pour agir quand votre enfant ou vous-même êtes en danger.
 
 Cette partie est conçue pour être consultée rapidement en cas d'urgence. Si vous êtes dans une situation de danger immédiat, allez directement aux chapitres pertinents. Vous pouvez toujours revenir aux autres parties plus tard.
 
@@ -34,13 +34,13 @@ OBJECTIF DE LA PARTIE II : OUTILS CONCRETS POUR AGIR EN CAS DE DANGER
 
 La Partie II vous donnera les outils concrets pour :
 
-1. Reconnaître et documenter la violence verbale (Chapitre 4) : Comment identifier la violence verbale, la documenter de façon légale et efficace, et y répondre sans escalader la situation.
+1. Reconnaître et documenter la violence verbale (Chapitre 2.1) : Comment identifier la violence verbale, la documenter de façon légale et efficace, et y répondre sans escalader la situation.
 
-2. Identifier et agir face à la violence physique (Chapitre 5) : Les signes d'alerte, les actions immédiates à prendre en cas de danger, et les ressources d'urgence disponibles au Québec.
+2. Identifier et agir face à la violence physique (Chapitre 2.2) : Les signes d'alerte, les actions immédiates à prendre en cas de danger, et les ressources d'urgence disponibles au Québec.
 
-3. Comprendre et utiliser les ressources de la DPJ (Chapitre 6) : Quand signaler, comment signaler, et à quoi s'attendre après un signalement. Le guide complet pour naviguer le système de protection de la jeunesse au Québec.
+3. Comprendre et utiliser les ressources de la DPJ (Chapitre 2.3) : Quand signaler, comment signaler, et à quoi s'attendre après un signalement. Le guide complet pour naviguer le système de protection de la jeunesse au Québec.
 
-4. Mettre en place un plan de sécurité (Annexes) : Des modèles pratiques de plan de sécurité et de journal d'incidents que vous pouvez utiliser immédiatement.
+4. Mettre en place un plan de sécurité (Annexes 2.A et 2.B) : Des modèles pratiques de plan de sécurité et de journal d'incidents que vous pouvez utiliser immédiatement.
 
 [ALERTE] Rappel important : Si vous ou un enfant êtes en danger immédiat, appelez le 9-1-1 ou rendez-vous dans un endroit sûr. Ne lisez pas ce livre en premier — agissez d'abord.
 

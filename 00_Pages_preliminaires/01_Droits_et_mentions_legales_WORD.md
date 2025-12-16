@@ -12,7 +12,7 @@ Tous droits réservés. Aucune partie de ce livre ne peut être reproduite, dist
 
 AVIS LÉGAL IMPORTANT
 
-Ce livre est fourni à titre informatif uniquement. Les informations contenues dans ce livre sont basées sur les lois et les pratiques en vigueur au Québec au moment de la rédaction. Les lois et les procédures peuvent changer, et les informations peuvent ne pas être à jour au moment de la lecture.
+Ce livre est fourni à titre informatif uniquement. Les informations contenues dans ce livre sont basées sur les lois et les pratiques en vigueur au Québec au moment de la rédaction. Elles peuvent ne pas être à jour au moment de votre lecture. Les lois et les procédures peuvent changer.
 
 Ce livre ne remplace pas :
 • Un conseil juridique professionnel d'un avocat qualifié
@@ -42,7 +42,7 @@ Ce livre ne remplace pas une aide d'urgence. Si vous ou votre enfant êtes en da
 
 MENTIONS DE RESPONSABILITÉ
 
-L'auteur et l'éditeur ont fait tous les efforts raisonnables pour s'assurer que les informations contenues dans ce livre sont exactes et à jour au moment de la publication. Cependant :
+L'auteur et l'éditeur ont déployé tous les efforts raisonnables pour s'assurer que les informations contenues dans ce livre sont exactes et à jour au moment de la publication. Cependant :
 
 • Les lois et les procédures peuvent changer
 • Les ressources et les services peuvent changer

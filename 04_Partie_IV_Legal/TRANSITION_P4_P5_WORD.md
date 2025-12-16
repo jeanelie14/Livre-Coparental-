@@ -8,31 +8,31 @@ Dans la Partie IV, nous avons exploré les aspects légaux et financiers essenti
 
 CE QUE VOUS AVEZ APPRIS
 
-Chapitre 10 — Divorce à l'amiable :
+Chapitre 4.1 — Divorce à l'amiable :
 • Les avantages du divorce à l'amiable (rapide, moins coûteux, moins stressant)
 • Les étapes du processus (séparation de corps, entente, homologation, jugement)
 • Les documents nécessaires et les pièges à éviter
 • Quand consulter un avocat même pour un divorce à l'amiable
 
-Chapitre 11 — Mesures judiciaires :
+Chapitre 4.2 — Mesures judiciaires :
 • Quand recourir au tribunal (sécurité, refus de négocier, questions complexes)
 • Les différents types d'ordonnances (protection, supervision, garde, visite)
 • Les mesures d'urgence et le processus judiciaire étape par étape
 • Comment préparer une audience et les coûts/délais associés
 
-Chapitre 12 — Aide juridique et médiation :
+Chapitre 4.3 — Aide juridique et médiation :
 • Comment accéder à l'aide juridique au Québec (admissibilité, procédure)
 • Les services de médiation disponibles (subventionnés ou privés)
 • Les ressources juridiques gratuites (Éducaloi, centres de justice de proximité)
 • Quand choisir la médiation vs un avocat
 
-Chapitre 13 — Pension alimentaire :
+Chapitre 4.4 — Pension alimentaire :
 • Les principes de base et les obligations légales
 • La différence entre les tables québécoises et fédérales
 • Comment calculer la pension alimentaire (formule, exemples, tableaux)
 • Comment modifier la pension et que faire si l'autre parent ne paie pas
 
-Chapitre 14 — Budget post-séparation :
+Chapitre 4.5 — Budget post-séparation :
 • Comment évaluer votre situation financière (revenus et dépenses)
 • Les dépenses types au Québec et les exemples de budgets
 • Les aides disponibles (allocations familiales, crédits d'impôt, aide sociale)
@@ -86,7 +86,7 @@ Chapitre 15 — Co-parentalité à l'amiable :
 • La gestion des calendriers parentaux et des vacances
 • Les stratégies pour maintenir une communication respectueuse
 
-Chapitre 16 — Familles recomposées :
+Chapitre 5.2 — Familles recomposées :
 • Les défis spécifiques des familles recomposées
 • Comment intégrer les nouveaux partenaires
 • La gestion des relations entre beaux-parents et enfants
@@ -98,7 +98,7 @@ Chapitre 17 — Réparer la relation parent-enfant :
 • Les activités pour renforcer le lien parent-enfant
 • Quand consulter un professionnel
 
-Chapitre 18 — Maintenir la stabilité :
+Chapitre 5.4 — Maintenir la stabilité :
 • L'importance des rituels et des routines
 • Comment créer des routines stables malgré la séparation
 • Les ressources éducatives et de soutien disponibles
@@ -110,7 +110,7 @@ Chapitre 19 — Communication avec l'école :
 • La gestion des bulletins et des rencontres parents-professeurs
 • Les ressources éducatives disponibles
 
-Chapitre 20 — Gestion des événements spéciaux :
+Chapitre 5.6 — Gestion des événements spéciaux :
 • Comment gérer les fêtes et les anniversaires
 • La gestion des vacances et des voyages
 • Les événements scolaires et les activités
@@ -180,7 +180,7 @@ La Partie V vous donnera les outils pour :
 • Maintenir la stabilité à long terme
 • Permettre à votre enfant de s'épanouir
 
-Commençons par le Chapitre 15 — Co-parentalité à l'amiable.
+Commençons par le Chapitre 5.1 — Coparentalité à l'amiable.
 
 ─────────────────────────────────────────────────────────────────────────────
 

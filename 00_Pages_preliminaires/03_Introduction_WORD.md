@@ -14,7 +14,7 @@ Ce livre est là pour vous accompagner dans ce parcours. Il ne prétend pas avoi
 
 POURQUOI CE LIVRE — ANGLE "PARENT DIFFICILE"
 
-La séparation transforme la vie d'une famille : emplois, logement, routines et surtout, le bien-être des enfants. Pour beaucoup, la séparation est douloureuse mais gérable ; les deux parents parviennent à mettre leurs différends de côté pour le bien de l'enfant. Ils communiquent, négocient, s'adaptent.
+La séparation transforme la vie d'une famille entière : emplois, logement, routines et surtout, le bien-être des enfants. Pour beaucoup, la séparation est douloureuse mais gérable ; les deux parents parviennent à mettre leurs différends de côté pour le bien de l'enfant. Ils communiquent, négocient, s'adaptent.
 
 Mais pour d'autres, la séparation devient le déclencheur d'une relation conflictuelle durable, marquée par des comportements manipulateurs, des agressions verbales, voire des gestes de violence. L'autre parent refuse de coopérer, utilise l'enfant comme un outil de pression, ou pire, met l'enfant en danger.
 
@@ -44,7 +44,7 @@ RÉSULTAT PROMIS / COMMENT UTILISER LE LIVRE
 
 À la fin de ce livre, vous aurez :
 
-1. Des outils concrets pour reconnaître et documenter la violence verbale et physique, et savoir quand et comment agir
+1. Des outils concrets pour reconnaître et documenter de manière sécuritaire la violence verbale et physique, et savoir quand et comment agir
 
 2. Une compréhension claire des ressources québécoises disponibles (DPJ, CLSC, aide juridique, médiation) et comment y accéder
 
@@ -55,6 +55,12 @@ RÉSULTAT PROMIS / COMMENT UTILISER LE LIVRE
 5. Un plan d'action personnalisé pour protéger votre enfant, préserver votre santé mentale et construire un avenir stable
 
 Ce livre est conçu comme un guide pratique que vous pouvez consulter à tout moment. Vous n'avez pas besoin de tout lire d'un coup : allez directement aux sections qui répondent à vos besoins immédiats.
+
+─────────────────────────────────────────────────────────────────────────────
+
+📌 À RETENIR
+
+Ce livre vous accompagne étape par étape. Vous n'êtes pas obligé de tout lire d'un coup. Allez directement aux sections qui répondent à vos besoins immédiats.
 
 ─────────────────────────────────────────────────────────────────────────────
 
@@ -98,7 +104,7 @@ Vous guidera dans les démarches de divorce, l'aide juridique, le calcul de la p
 
 PARTIE V : CONSTRUIRE L'AVENIR
 
-Vous aidera à établir une co-parentalité possible, à gérer les événements spéciaux, et à faire face aux situations complexes.
+Vous aidera à établir une coparentalité possible, à gérer les événements spéciaux, et à faire face aux situations complexes.
 
 Les annexes contiennent des modèles pratiques : accord parental, calendrier, checklists, glossaire, FAQ, et liste complète des ressources québécoises.
 

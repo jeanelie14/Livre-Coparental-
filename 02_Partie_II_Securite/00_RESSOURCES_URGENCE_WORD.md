@@ -136,7 +136,7 @@ Site web : msss.gouv.qc.ca (section DPJ)
 
 Bureaux régionaux : Voir l'Annexe A3 pour la liste complète par région
 
-Pour plus de détails : Voir le Chapitre 6 — Guide pratique de la DPJ
+Pour plus de détails : Voir le Chapitre 2.3 — Guide pratique de la DPJ
 
 ─────────────────────────────────────────────────────────────────────────────
 

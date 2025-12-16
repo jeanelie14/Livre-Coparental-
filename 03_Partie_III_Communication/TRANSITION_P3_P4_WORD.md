@@ -4,11 +4,11 @@ TRANSITION — DE LA PARTIE III À LA PARTIE IV
 
 SYNTHÈSE DE LA PARTIE III : OUTILS DE COMMUNICATION ET PROTECTION DE SOI
 
-Dans la Partie III, nous avons exploré les outils essentiels pour naviguer la co-parentalité difficile tout en préservant votre santé mentale et en protégeant votre enfant.
+Dans la Partie III, nous avons exploré les outils essentiels pour naviguer la coparentalité difficile tout en préservant votre santé mentale et en protégeant votre enfant.
 
 CE QUE VOUS AVEZ APPRIS
 
-Chapitre 7 — État d'esprit & limites :
+Chapitre 3.1 — État d'esprit & limites :
 • L'importance de préserver votre santé mentale pour protéger efficacement votre enfant
 • Des techniques pratiques de gestion du stress (respiration, méditation, activité physique, sommeil, alimentation)
 • Comment établir et maintenir des limites saines qui protègent votre bien-être
@@ -16,15 +16,15 @@ Chapitre 7 — État d'esprit & limites :
 • L'importance de maintenir un réseau social de soutien
 • Les ressources disponibles pour vous soutenir
 
-Chapitre 8 — Communication stratégique :
+Chapitre 3.2 — Communication stratégique :
 • Les principes de la communication stratégique (neutre, factuelle, centrée sur l'enfant, professionnelle)
 • Des scripts prêts à l'emploi pour différentes situations (SMS et courriels)
 • Comment gérer les provocations sans escalader
-• L'utilisation d'applications de co-parentalité pour faciliter la communication
+• L'utilisation d'applications de coparentalité pour faciliter la communication
 • Quand et comment utiliser un médiateur
 • Les erreurs courantes à éviter
 
-Chapitre 9 — Réseaux sociaux et vie privée :
+Chapitre 3.3 — Réseaux sociaux et vie privée :
 • Comment protéger votre vie privée en ligne avec des paramètres de confidentialité appropriés
 • Comment gérer les publications de l'autre parent concernant votre enfant
 • Comment protéger l'image et la vie privée de votre enfant
@@ -66,13 +66,13 @@ Avec ces outils, vous pouvez :
 • Prendre des décisions réfléchies et stratégiques
 • Communiquer de façon efficace sans escalader
 • Protéger votre enfant en restant calme et centré
-• Naviguer la co-parentalité difficile avec confiance
+• Naviguer la coparentalité difficile avec confiance
 
 ─────────────────────────────────────────────────────────────────────────────
 
 INTRODUCTION À LA PARTIE IV : ASPECTS LÉGAUX ET FINANCIERS
 
-Maintenant que vous avez les outils de communication et de protection de vous-même, nous allons explorer les aspects légaux et financiers de la séparation et de la co-parentalité au Québec.
+Maintenant que vous avez les outils de communication et de protection de vous-même, nous allons explorer les aspects légaux et financiers de la séparation et de la coparentalité au Québec.
 
 POURQUOI CETTE PARTIE EST IMPORTANTE
 
@@ -90,7 +90,7 @@ Les aspects financiers :
 
 CE QUE VOUS APPRENDREZ
 
-Chapitre 10 — Divorce à l'amiable :
+Chapitre 4.1 — Divorce à l'amiable :
 • Les avantages du divorce à l'amiable
 • Les étapes du processus
 • Comment négocier une entente équitable
@@ -102,7 +102,7 @@ Chapitre 11 — Mesures judiciaires :
 • Le processus judiciaire au Québec
 • Vos droits et obligations
 
-Chapitre 12 — Aide juridique et médiation :
+Chapitre 4.3 — Aide juridique et médiation :
 • Comment accéder à l'aide juridique au Québec
 • Les critères d'admissibilité
 • Les services de médiation disponibles
@@ -114,7 +114,7 @@ Chapitre 13 — Pension alimentaire :
 • Comment modifier la pension alimentaire
 • Que faire si l'autre parent ne paie pas
 
-Chapitre 14 — Budget post-séparation :
+Chapitre 4.5 — Budget post-séparation :
 • Comment établir un budget réaliste
 • Gérer les dépenses avec un revenu réduit
 • Planifier votre avenir financier
@@ -189,7 +189,7 @@ Vous avez maintenant les outils de communication et de protection de vous-même.
 • Établir une base financière solide pour votre avenir
 • Planifier votre avenir avec sérénité
 
-La Partie IV vous donnera les connaissances pratiques dont vous avez besoin pour naviguer ces aspects complexes de la séparation et de la co-parentalité.
+La Partie IV vous donnera les connaissances pratiques dont vous avez besoin pour naviguer ces aspects complexes de la séparation et de la coparentalité.
 
 Rappel : Prenez soin de vous pendant que vous lisez cette partie. Les aspects légaux et financiers peuvent être stressants. Utilisez les techniques de gestion du stress que vous avez apprises dans la Partie III.
 
